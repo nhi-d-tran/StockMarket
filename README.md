@@ -1,6 +1,6 @@
 # StockMarket
 
-
+----Team Project----
 Stock Market: 
   A place where stocks are bought and sold.
   
